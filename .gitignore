@@ -1,0 +1,7 @@
+*
+!City_NDVI_Density.ipynb
+!selected_cities/
+!selected_cities/**
+!plots/
+!plots/**
+!.gitignore
